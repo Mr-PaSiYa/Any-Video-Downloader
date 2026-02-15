@@ -1,6 +1,6 @@
-# Video Downloader
+# Any Video Downloader
 
-A simple, modern desktop application to download videos from **YouTube**, **TikTok**, and **Instagram** (public posts/reels).
+A simple, modern desktop application to download videos from **YouTube**, **TikTok**,**Instagram** and **Other Supported Sites**(public posts/reels).
 
 Built with Python + Flask + pywebview + yt-dlp.
 
