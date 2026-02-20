@@ -1,0 +1,4 @@
+pywebview>=5.0
+flask>=3.0
+easygui>=0.98
+requests>=2.31
